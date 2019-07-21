@@ -1,4 +1,57 @@
 {
+  "stickers" : [
+    {
+      "filename" : "mom majestic.sticker"
+    },
+    {
+      "filename" : "mom reserved.sticker"
+    },
+    {
+      "filename" : "dad gangster.sticker"
+    },
+    {
+      "filename" : "dad disco.sticker"
+    },
+    {
+      "filename" : "dani stop.sticker"
+    },
+    {
+      "filename" : "dani dance.sticker"
+    },
+    {
+      "filename" : "zack floaties.sticker"
+    },
+    {
+      "filename" : "zack shades.sticker"
+    },
+    {
+      "filename" : "maddy angry.sticker"
+    },
+    {
+      "filename" : "maddy princess.sticker"
+    },
+    {
+      "filename" : "maddy cowgirl.sticker"
+    },
+    {
+      "filename" : "maddy ballerina.sticker"
+    },
+    {
+      "filename" : "jess surprised.sticker"
+    },
+    {
+      "filename" : "jess glasses.sticker"
+    },
+    {
+      "filename" : "matt dead.sticker"
+    },
+    {
+      "filename" : "matt crying.sticker"
+    },
+    {
+      "filename" : "matt fedora.sticker"
+    }
+  ],
   "info" : {
     "version" : 1,
     "author" : "xcode"

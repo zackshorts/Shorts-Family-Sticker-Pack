@@ -1,67 +1,85 @@
 {
   "images" : [
     {
-      "idiom" : "iphone",
       "size" : "29x29",
+      "idiom" : "iphone",
+      "filename" : "shorts_icon copy.png",
       "scale" : "2x"
     },
     {
-      "idiom" : "iphone",
       "size" : "29x29",
+      "idiom" : "iphone",
+      "filename" : "shorts_icon copy-6.png",
       "scale" : "3x"
     },
     {
-      "idiom" : "iphone",
       "size" : "60x45",
+      "idiom" : "iphone",
+      "filename" : "shorts_icon copy-7.png",
       "scale" : "2x"
     },
     {
-      "idiom" : "iphone",
       "size" : "60x45",
+      "idiom" : "iphone",
+      "filename" : "shorts_icon copy-8.png",
       "scale" : "3x"
     },
     {
-      "idiom" : "ipad",
       "size" : "29x29",
+      "idiom" : "ipad",
+      "filename" : "shorts_icon copy-2.png",
       "scale" : "2x"
     },
     {
-      "idiom" : "ipad",
       "size" : "67x50",
+      "idiom" : "ipad",
+      "filename" : "shorts_icon copy-1.png",
       "scale" : "2x"
     },
     {
-      "idiom" : "ipad",
       "size" : "74x55",
+      "idiom" : "ipad",
+      "filename" : "shorts_icon copy-5.png",
       "scale" : "2x"
+    },
+    {
+      "size" : "1024x1024",
+      "idiom" : "ios-marketing",
+      "filename" : "shorts_icon copy-3.png",
+      "scale" : "1x"
     },
     {
       "size" : "27x20",
       "idiom" : "universal",
+      "filename" : "shorts_icon copy-9.png",
       "scale" : "2x",
       "platform" : "ios"
     },
     {
       "size" : "27x20",
       "idiom" : "universal",
+      "filename" : "shorts_icon copy-10.png",
       "scale" : "3x",
       "platform" : "ios"
     },
     {
       "size" : "32x24",
       "idiom" : "universal",
+      "filename" : "shorts_icon copy-11.png",
       "scale" : "2x",
       "platform" : "ios"
     },
     {
       "size" : "32x24",
       "idiom" : "universal",
+      "filename" : "shorts_icon copy-12.png",
       "scale" : "3x",
       "platform" : "ios"
     },
     {
       "size" : "1024x768",
       "idiom" : "ios-marketing",
+      "filename" : "shorts_icon copy-4.png",
       "scale" : "1x",
       "platform" : "ios"
     }
